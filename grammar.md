@@ -59,3 +59,41 @@ When we say that 'something has happened', this is usually new information.
   ### Past perfect
 - The same mechanism to change as in Present Perfect -> Past Perfect.
   It wasn't raining when we went out. But it had been raining, so the ground was wet.
+
+### Have vs Have got
+- Have = Have got for possession, relationship, illness. In my opinion 'I've got' is appropriate when you possess smth since some time and want to emphasize that now. This equivalence does not work for the past. "I'd got" is not used.
+  I have a headache = I've got a headache
+
+### Articles
+- Articles before countable
+- NO articles before uncountable, plural
+- Countable or not is derived from the meaning
+  Enjoy your trip. Have a good time ~ I can't wait. I don't have time.
+  Two coffees and an orange juice ~ I don't like coffee.
+- no articles with plurals even you can count them
+  Jack has blue eyes. What awful shoes. "The news" is an exception and counts as singular.
+- we use "the" with things that are known to be specific when we talk about them: moon, sea, sky, ground, floor, ceiling, door....
+- Even if we don't mean a specific thing we still use "the" with: cinema, theatre, radio, dentist.
+- No articles with: dinner, lunch, breakfast. But we use articles when there is an adjective with it.
+  I had lunch an hour ago ~ I had a marvellous lunch an hour ago.
+- No "the" before noun + number
+  Look at page 29. (Not the page 29)
+- Places that generally describe your status do not require articles. Like: school, university, prison, hospital, church.
+  I am at school now (I'm a pupil and go to school in general) ~ At 12.30 I was at the school (I was in the specific building)
+  Are your children at school today? (not specific building but their usual activity)
+  How do your children get to and from school? They walk. The school isn't so far.
+- No article with: go to bed, be in bed
+  I'm going to bed now ~ I sat down at the bed (a specific part of furniture)
+- No article with: go to work, be at work, start work...
+- No article with: go home, be at home, get home...
+- No article with: go to sea, be at sea (go, be on a voyage)
+  She went to sea last summer ~ I'd like to live near the sea
+- No articles when we are talking about things or people in general.
+  I'm afraid of spiders.
+  Do you like classical music, books?
+  English people drink a lot of tea ~ The English people I know drink a lot of tea
+  I like working with people who say hi(not all people, but 'people who say hi' is still general)
+  Most people believe that marriage and family life are the basis of society.
+  Someone gave me a book about the history of modern art ~ you can learn from history.
+- No articles with: most people, most books....
+  Most books have title
