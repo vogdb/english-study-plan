@@ -194,6 +194,140 @@ When we say that 'something has happened', this is usually new information.
   Buses are so expensive these days, you might as well get a taxi.
   What time are you going out? Well, I'm ready, so I might as well go now.
 
+### Must and Have to
+- I **have to** do something = it is necessary to do it, I am obliged to do it
+  I have to wear glasses
+  They can't fix my computer, so I'll have to buy a new one (or I'm going to have to buy)
+- In many cases **must** = **have to**. You can use **must** or **have to** to give your own opinion
+  It's later than I thought. I must go. or I have to go.
+- We use **have to** (not usually must) to say what someone is obliged to do. The speaker is not giving his/her own opinion
+  I have to work from 8.30 to 5.30 every day. (a fact, not an opinion)
+  She has had to wear glasses since she was very young
+- **Must** is used in written rules and instructions
+  Applications for the job must be received by 18 May
+- You cannot use **must** to talk about the past
+  We didn't have much time. We had to hurry
+- You **mustn't** do something = it is necessary that you do not do it (so don't do it)
+  You must keep this a secret. You mustn't tell anyone.
+- You **don't have** to do something = you don't need to do it (but you can if you want)
+  You don't have to tell Tom what happened. I can tell him myself.
+- You can use **have got to** instead of **have to**.
+  I've got to work tomorrow = I have to work tomorrow
+- **Needn't** = **don't need to**
+  We needn't hurry = We don't need to hurry
+- **Needn't have** (done)
+  They needn't have reserved a table (=They reserved a table, but this was not necessary)
+- He **didn't need** to do something = it was not necessary to do it. It doesn't matter whether he did it
+
+### Should
+- **Should** do something = it is a good thing to do or the right thing to do. You can use should to give advice or to give an opinion.
+  You look tired. You should go to bed.
+- **Should** is not as strong as must or have to
+  You should apologise. (=it would be a good thing to do)
+- You can use **should** when something is not right
+  Where's Tina? She should be here by now. (=she isn't here yet, and this is not normal)
+- You can use **should** when we expect something to happen
+  There are plenty of hotels. It shouldn't be hard to find one. (= I don't expect it to be hard)
+- You **should have done** something (=you didn't do it, but it would have been the right thing to do)
+  You missed a great party last night. You should have come.
+- You **shouldn't have done** something (=you did it, but it was the wrong thing to do)
+  I shouldn't have eaten so much.
+- You can use **ought to** instead of **should**
+- You can use **should** after: insist, recommend, suggest, demand, propose.
+  I insisted that he should apologise.
+  I insisted that he apologise (the subjunctive form of the above)
+- It's important/vital/necessary/essential that ... **should**
+  It's essential that everyone should be here on time
+  lt's essential that everyone is here on time (the subjunctive form of the above)
+- After **suggest**, you cannot use **to** ... ('to do I to buy' etc.)
+  What do you suggest we should do
+  What do you suggest we do (not What do you suggest us to do?)
+- **Should** something happen = If something **should** happen
+  Should the situation change, we will contact you.
+- You can use **I should**... **I shouldn't**... to give somebody advice.
+  Shall I leave now? No, I should wait a bit. (I would wait if I were you)
+
+### Had better
+- I **had better** do something = it is advisable to do it. If I don't do it, there will be a problem or a danger. **Had** is a past verb but here it means present or future. In speaking we usually use its short form **I/We'd**. We also don't use **to**, see examples below.
+  I have to meet Amy in ten minutes. I had(I'd) better go now or I'll be late.
+  We'd better stop for petrol soon. The tank is almost empty.
+- **Had better** is similar to **should**. We use **had better** only for a specific situation, not for things in general.
+  It's late. You'd better go/You should go. (a specific situation)
+  You're always at home. You should go out more often. (in general)
+  - **should** does not imply any danger or problem in future.
+  It's a great film . You should go and see it. (but no problem if you don't)
+  The film starts at 8.30. You'd better go now or you'll be late.
+
+### It's time
+- It's time (for somebody) to ...
+  It's time to go home = It's time for us to go home.
+- When we use **it's time + past** (we went, I did), the meaning is present, not past.
+  It's time they were here. Why are they so late?
+- It's time somebody did something= they should have already done it or started it. We often use this structure to criticise or to complain. **It's about time** makes criticism stronger.
+  This situation can't continue. It's time you did something about it.
+  It's about time he did something instead of just talking.
+
+### Would
+- We use **would ('d)** / **wouldn't** when we imagine a situation or action (=we think of something that is not real)
+  It would be nice to buy a new car, but we can't afford it.
+  I wouldn't say anything in your situation.
+- For the past we use **would have done**
+  I didn't tell Sam what happened. He wouldn't have been pleased.
+- Sometimes **would/wouldn't** is the past of will/won't.
+  Amy promised that she wouldn't be late
+- Somebody **wouldn't** do something = he/she refused to do it
+  I tried to warn him, but he wouldn't listen to me
+- You can also use **would** to talk about things that happened regularly in the past. Similarly to **used to**
+  Whenever Richard was angry, he would(used to) walk out of the room.
+
+### Can, could, would you ...?
+- We use **can** or **could** to ask people **to do things**. We also can use **will** and **would** but **can/could** are more usual
+  Can(Could) you wait a moment, please?
+- Do you think you **could** ... ? (not can)
+- To ask for something we use: **Can/Could/May** I have. **May** is more formal.
+  Can/Could/May I have these postcards, please?
+- To ask to do something, we use **Can/Could/May**. Also we can use *Do you mind if I/Is it OK if I*
+  Can/Could/May I come in?
+  Is it OK if I come in?
+- To offer to do something, we use **Can I**
+  Can I help you?
+- To offer or to invite, we use **Would you like**
+  Would you like a cup of coffee?
+- I **would like** ... is a polite way of saying what you want
+  I'd like a cup of coffee
+
+### if I do / if I did
+- When the choice is real we use **if+present**
+  If we go by bus, it will be cheaper. (deciding now how to travel)
+- When we imagine something that will not happen, or we don't expect that it will happen, we use **if+ past**. But the meaning is not past.
+  (When they chose a train) If we went by bus, it would be cheaper
+  If there was an election tomorrow, who would you vote for?
+- We do not normally use **would** in the **if-part** of the sentence
+  If we went by bus, it would be cheaper. (not If we would go)
+  What would you do if you were bitten by a snake?
+- But you can use **if ... would** when you ask somebody to do something
+  I would be grateful if you would let me know your decision as soon as possible
+- **Could** and **might** are also possible instead of **would**
+  If I won a lot of money, I might/could buy a house.
+  It would be useful if you could drive
+- We use the past in the same way after **wish**. We use wish to say that we regret something, that something is not as we would like it to be.
+  I wish I knew Paul's phone number. (I'd call him if I knew)
+  It rains a lot here. I wish it didn't rain so much.
+
+### If I had known, I wish I had known
+- We use **if + had ('d) ...** to talk about the past (if I had known/been/done etc.)
+  I wasn't hungry. If I had been hungry, I would have eaten something. (past)
+  I'm not hungry. If I was hungry, I would eat something. (now)
+- I **wish** something **had happened** = I am sorry that it didn't happen. The main point is the action that didn't happen.
+  I wish I'd known that Gary was ill. I would have gone to see him. (but I didn't know)
+- Do not use **would have** .. . after wish.
+  I wish it had been warmer when we were on holiday.
+- Compare would (do) and would have (done)
+  If I'd gone to the party last night, I would be tired now. (I am not tired now - present)
+  If I'd gone to the party last night, I would have met lots of people. (I didn't meet lots
+of people - past)
+
+
 ### Articles
 - Articles before countable
 - NO articles before uncountable, plural
