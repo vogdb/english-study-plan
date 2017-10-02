@@ -310,7 +310,7 @@ When we say that 'something has happened', this is usually new information.
 - **Could** and **might** are also possible instead of **would**
   If I won a lot of money, I might/could buy a house.
   It would be useful if you could drive
-- We use the past in the same way after **wish**. We use wish to say that we regret something, that something is not as we would like it to be.
+- We use the past in the same way after **wish**. We use wish to say that we regret something now, that something is not as we would like it to be now.
   I wish I knew Paul's phone number. (I'd call him if I knew)
   It rains a lot here. I wish it didn't rain so much.
 
@@ -318,7 +318,7 @@ When we say that 'something has happened', this is usually new information.
 - We use **if + had ('d) ...** to talk about the past (if I had known/been/done etc.)
   I wasn't hungry. If I had been hungry, I would have eaten something. (past)
   I'm not hungry. If I was hungry, I would eat something. (now)
-- I **wish** something **had happened** = I am sorry that it didn't happen. The main point is the action that didn't happen.
+- I **wish** something **had happened** = I am sorry that it didn't happen. We regret something in the past. Usually the main point is an action that didn't happen in the past.
   I wish I'd known that Gary was ill. I would have gone to see him. (but I didn't know)
 - Do not use **would have** .. . after wish.
   I wish it had been warmer when we were on holiday.
@@ -327,6 +327,93 @@ When we say that 'something has happened', this is usually new information.
   If I'd gone to the party last night, I would have met lots of people. (I didn't meet lots
 of people - past)
 
+### Wish
+- We say '**wish somebody something**' (Luck I a happy birthday etc.). But you cannot say 'I wish that something happens'. We use **hope** in this situation.
+  I wish you a pleasant stay here.
+  I hope you have a pleasant stay here.
+- I **wish I could** (do something)= I regret that I cannot do it
+  I'm sorry I have to go. I wish I could stay longer. (but I can't)
+- I **wish I could have** (done something) = I regret that I could not do it
+  I hear the party was great. I wish I could have gone. (but I couldn't go)
+- We use **I wish ... would** when we would like something to happen or change. Usually, the speaker doesn't expect this to happen.
+  I wish it would stop raining so I could play outside.
+  I wish you'd do(= you would do) something instead of just sitting and doing nothing
+- **I wish ... wouldn't** ... to complain about things that people do repeatedly
+  I wish you wouldn't keep interrupting me
+- We use **I wish ... would ...** to say that we want something to happen. But we do not use **I wish ... would ...** to say how we would like things to be
+  I wish Sarah would come. (= I want her to come)
+  I wish Sarah was (or were) here now. (not I wish Sarah would be)
+
+### Passive
+- The passive is **be (is/was etc.) + past participle** (done/cleaned/seen etc.)
+  I am employed by a company (present)
+  How is it made?
+  This house was built in 1961 (past)
+  When was TV invented?
+- Infinitive passive: (to) **be + done/cleaned/seen**
+  Something must be done before its too late.
+  I want to be left alone.
+  The man couldn't walk and had to be carried
+  The room will be cleaned later.
+- Perfect passive: (to) **have/had been + done/cleaned/seen**
+  The room should have been cleaned.
+  If you had locked the car, it wouldn't have been stolen.
+  Have you ever been bitten by a dog?
+  The room looked nice. It had been cleaned.
+- Continuous perfect: **am/is/are + being (done)**
+  The room is being cleaned at the moment.
+  The room was being cleaned when I arrived.
+- When we use these verbs in the passive, most often we begin with the person: **offer, give, ask, pay, show, teach, tell**. The trick of them is that we can change passive subjects.
+  The police were given the information.
+  The information was given to the police.
+- The passive of doing/seeing etc. is **being done/being seen**
+  I don't like being told what to do
+  We kissed without being seen
+- I **was born** not I am born
+- You can use **get** instead of **be** in the passive
+  There was a fight at the party, but nobody got hurt. (nobody was hurt)
+  I don't get invited to many parties. (= I'm not invited)
+- We use **get** only when things happen.
+  Jessica is liked by everybody. (not gets liked - this is not a 'happening')
+- **get** exceptions which are not passive: get married, get divorced, get lost, get dressed, get changed.
+- It is **said to**. Other verbs are possible: alleged believed considered expected known reported thought understood.
+  It is said that he is 108 years old (People say that he is ...)
+  He is said to be 108 years old. (the same as above)
+  It **is alleged** that Bob **hit** a policeman.
+  Bob **is alleged to have hit** a policeman
+  It is alleged that the man was driving at 110 miles an hour.
+  The man is alleged to have been driving at...
+- In some cases (it is) **supposed to** ... = (it is) **said to**
+  I want to see that film. It's supposed to be good.
+  It was supposed to be a joke
+
+### Have something done
+- We use **have something done** to say that we arrange for somebody else to do something for us.
+  Lisa had the roof repaired. (=she arranged for somebody else to repair it)
+  Did you have those curtains made?
+- Order is important. The past participle (repaired/cut etc.) is after the object
+  We are having the house painted this week
+  Your hair looks nice. Have you had it cut?
+- **get** is possible instead of **have**
+  When are you going to get the roof repaired?
+- We use **have something done** to say that something happens to somebody or their belongings. Often what happens is not nice
+  Gary had his nose broken in a fight
+
+### Reported speech
+- You want to tell somebody what Paul said.
+  Direct speech. Paul said 'I'm feeling ill'
+  Reported speech. Paul said that he was feeling ill.
+  I told Lisa that I didn't have any money.
+- We can leave out **that**.
+  Paul said he was feeling ill.
+- In general, the present form in direct speech changes to the past form in reported speech
+  Anna: My parents are fine.
+  Later you say: Anna said that her parents were fine.
+  Anna: I'll phone you when I get back. Later: Anna told she would phone me when she got back
+- The past simple can usually stay the same in reported speech, or you can change it to the past perfect
+  Paul said 'I woke up feeling ill, so I didn't go to work.'
+  Paul said (that) he woke up feeling ill, so he didn't go to work.
+  Paul said (that) he had woken up feeling ill, so he hadn't gone to work.
 
 ### Articles
 - Articles before countable
