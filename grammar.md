@@ -414,6 +414,145 @@ of people - past)
   Paul said 'I woke up feeling ill, so I didn't go to work.'
   Paul said (that) he woke up feeling ill, so he didn't go to work.
   Paul said (that) he had woken up feeling ill, so he hadn't gone to work.
+- Cases when reported speech keeps the verb is when the situation stays the same.
+  Paul said that his new job is boring. (The situation is still the same. His job is still boring now.)
+  Helen told me that she wants to go to Canada next year. (Helen still wants to go to Canada next year.)
+- if the situation has changed or finished, you must use a past verb
+  Paul left the room suddenly. He said he had to go.
+- Use a past form when there is a difference between what was said and what is really true.
+  Sonia: Joe is in hospital.
+  Later you see Joe on the street: I didn't expect to see you. Sonia said you were in hospital. (Sonia said that he was in hospital but he is not)
+- For orders and requests we generally use infinitive. Especially with **tell**, **ask**
+  The doctor told me to drink plenty of water.
+  I told joe not to be late.
+  Jackie asked me to help her.
+  I didn't want to delay Helen, so I told her to not wait for me if I was late.
+
+### Say/tell
+- If you say who somebody is talking to, use **tell**.
+  Sonia told me that you were in hospital. (not Sonia said me)
+  What did you tell the police? (not say the police)
+- Otherwise use **say**
+  Sonia said that you were in hospital.
+  What did you say?
+- We can use **'say something to somebody'**
+  Ann said goodbye to me and left.
+  What did you say to the police?
+
+### Questions
+  Where were you born?
+- Do not use **do/does/did** if **who/what etc.** is the subject of the sentence.
+  Bill(subject) phoned Emma. Who phoned Emma? Who did Bill phone?
+  What happened to you last night? (Something happened)
+  Which bus goes to the centre?
+- Position of prepositions in questions beginning **Who/What/Which/Where** ... ?
+  **Who** do you want to speak **to**?
+  Who does this book belong to?
+  **Where** are you **from**?
+  **Which** job has Tina applied **for**?
+- Preposition + **whom** in formal style
+  To whom do you wish to speak?
+- Negative questions. **Isn't** it ... ? **Didn't** you...
+  Didn't you hear the doorbell? I rang it three times.
+  Haven't we met before?
+- The meaning of **yes** and **no** in answers to negative questions
+  Don't you want to go? Yes. (=Yes, I want). No. (I don't want)
+- **Why**?
+  Why don't we eat out tonight (not Why we don't eat)
+  Why wasn't Emma at work yesterday?
+
+### Question as part of compound sentence
+- When the question is part of a longer sentence we don't swap verbs.
+  Do you know what time it is? (not what time is it)
+  I don't know who those people are.
+  Do you know what time the film starts? (not what time does the film start)
+  I wonder why she left early. (not why did she leave)
+- Use **if** or **whether** where there is no other question word (**what**, **why** etc.)
+  Do you know whether(if) anybody saw you?
+- The same in reported speech
+  She asked whether I could speak any languages
+  He asked me why I dressed like a pumpkin
+
+### Auxiliary verbs
+- You can use an auxiliary verb (**have, can't, was, do**...) when you don't want to repeat something
+  'Do you like onions?' 'Yes, I do.' (=I like onions)
+  'Have you locked the door? 'Yes, I have' (I have locked)
+  'Does Simon live in London?' 'He did, but he doesn't any more.'
+  'Please help me' 'I'm sorry I would if I could but I can't'
+- You can use auxiliary verbs to deny what somebody says
+  'You're sitting in my place.' 'No, I'm not.'
+- We use **have you? / isn't she? / do they?** etc. to show interest in what somebody has said, or to show surprise.
+  'I've just seen Stephen.' 'Oh, have you? How is he?'
+  'Lisa isn't very well today.' 'Oh, isn't she? What's wrong with her?'
+  'It rained every day during our holiday.' 'Did it? What a shame!'
+- We use auxiliary verbs with **so**, **neither/nor** and **either**. Verb before subject!
+  'I'm tired.' 'So am I.' (=I'm tired too)
+  Sarah hasn't got a car and neither has Mark
+  'I never read newspapers.' 'Neither/Nor do I.'
+  'I don't know.' 'I don't either.'
+- **I think(hope...) so**. After some verbs we use **so** when we don't want to repeat something.
+  'Are those people Korean?' 'I think so.' (= I think they are Korean)
+  'Will you be at home this evening?' 'I expect so.'
+  'Do you think it will rain?' 'I hope so. / I hope not.'
+  'Is it her?' 'I don't think so'/'I'm afraid so'
+
+### Yes/No
+- For me as Russian it's the opposite to answer 'yes' on questions like 'Don't you like?'. I would answer 'Yes, I don't like' bet in English I should answer 'Yes, I like' or 'No, I don't like'.
+
+### Question tags
+- When question is made by its end. Negative question tag after a positive sentence and vice versa.
+  You're not going out today, are you? Yes (I'm going out) No (I'm not)
+  Kate won't be late, will she?
+  Kate will be here soon, won't she?
+  You don't have a pen, do you?
+  He had never met her before, had he?
+- After **Let's**, the question tag is **shall we**.
+  Let's go for a walk, shall we?
+- After **Don't**, the question tag is **will you**.
+  Don't be late, will You?
+- After **I'm**, the question tag is **aren't I** (=am I not)
+  I'm right, aren't I?
+
+### Verb + -ing (enjoy doing, ...)
+- After some verbs we use **-ing (not to ... )**: enjoy mind suggest stop(give up) postpone(put off) admit avoid imagine finish consider deny risk fancy continue(go on, carry on) keep.
+  I enjoy reading (not I enjoy to read)
+  Would you mind closing the door? (not mind to close)
+  When I'm on holiday, I enjoy not having to get up early.
+- **Verb + somebody + -ing**
+  I can't imagine George riding a motorbike.
+  I don't mind being kept waiting. (I don't mind people keeping me)
+- When you are talking about finished actions, you can say **having done/stolen/said**
+  They admitted having stolen the money. (=They admitted stealing the money.)
+- After some of the verbs you can also use **that**
+  They denied that they had stolen the money. (= They denied stealing)
+  Chris suggested that we went to the cinema. (= Sam suggested going)
+
+### Verb + to...
+- After these verbs we use **verb + to**: offer agree refuse decide plan manage afford arrange fail forget promise threaten learn seem appear tend pretend claim want ask beg expect mean would like/prefer.
+  It was late, so we decided to take a taxi home
+  We decided not to go out because of the weather
+  I pretended to be reading the paper
+  You seem to have lost weight
+  I was warned not to touch the switch.
+- After **dare/help** you can use the infinitive with or without **to**. After negative **dare** we can't use **to**
+  I wouldn't dare (to) tell him
+  I daren't tell him
+  Can you help me (to) move the table?
+- After some verbs we can use a question word **(what/whether/how etc.) + to**...
+  We asked how to get to the station.
+  Do you understand what to do?
+  Can somebody show me how to use this camera?
+- After **advise** and **allow**, two structures are possible: verb + -ing, verb + object + to.
+  I wouldn't advise staying in that hotel.
+  I wouldn't advise anybody to stay in that hotel.
+  Parking isn't allowed in front of the building.
+  You aren't allowed to park in front of the building.
+- **Make, let** have the structure **verb + object + infinitive** (without to). In passive form we use **to**
+  I made him promise that...
+  Let me carry your bag for you
+  We were made to wait for two hours. (= They made us wait ...)
+- These verbs can be followed by **-ing or to...** with no difference of meaning: begin start continue intend bother
+  It started raining = it started to rain
 
 ### Articles
 - Articles before countable
