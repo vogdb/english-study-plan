@@ -553,6 +553,102 @@ of people - past)
   We were made to wait for two hours. (= They made us wait ...)
 - These verbs can be followed by **-ing or to...** with no difference of meaning: begin start continue intend bother
   It started raining = it started to rain
+- **remember + -ing**
+  I remember doing something = I did it and now I remember this.
+  I remembered to do something = I remembered that I had to do it, so I did it.
+- **Try to** and **try + -ing**
+  I tried to move the table but it was too heavy (*attempt to do*, in this case *to move*)
+  I tried moving the table to the other side (*attempt was done as a test/experiment*)
+  Try pressing the green button if smth does not work (*try as an experiment*)
+- **Need to** and **need + -ing**
+  I need to get more exercise (it is necessary for me to do it)
+  Do you think this jacket needs cleaning? (needs to be cleaned)
+- **help to do** = **help do**
+  Everybody helped (to) clean up
+- I **can't help doing** something = I can't stop myself doing it
+  She tried to be serious, but she couldn't help laughing
+  I'm sorry I'm so nervous. I can't help it. (I can't help being nervous)
+- **like, love, hate**. When you talk about repeated actions, you can use **-ing or to ...** after them. But! We use **-ing** (not to ...) when we talk about a situation that already exists (or existed)
+  General. Stephanie hates flying or Stephanie hates to fly.
+  Situation exists now. Paul lives in Berlin now. He likes living there.
+  Did you like being a student?
+  I like doing something = I do it and I enjoy it
+  I Like to do something = I think it is a good thing to do, but I don't necessarily enjoy it
+- Would **like / love / hate / prefer** are usually followed by **to**
+- I **would like to have done** something = I regret now that I didn't or couldn't do it.
+
+### Prefer / Rather
+- You can use **prefer to (do)** or **prefer -ing** to say what you prefer in general
+  I prefer to live in the country = I prefer living in the country
+- I prefer something to something else
+  I prefer basketball to football
+- I prefer **doing** something to **doing** something else
+  I prefer driving to flying
+- I prefer **to do** something **rather than (do)** something else
+  I prefer to drive rather than travel by train
+  He prefers to live in the country rather than in a city
+- We use **would prefer** to say what somebody wants in a specific situation (not in general). Would prefer **to do** something (not usually would prefer doing)
+  I'd prefer to drive today. (In general. I prefer to drive)
+- **Would rather** (do) = **would prefer** (to do). We use **would rather** + infinitive
+  I would rather drive = I would prefer to drive
+  I'd rather not go out this evening
+  I'd rather stay at home tonight than go to the cinema.
+- I'd rather somebody did something (not I'd rather somebody do). In this structure we use the past (drove, did etc.), but the meaning is present not past.
+  I'd rather you made dinner now. (not I'd rather you make but I'd rather make dinner now.)
+  I'd rather you didn't tell anyone what I said
+  Are you going to tell Anna what happened? No. I'd rather she didn't know.
+
+#### Preposition + -ing
+- if a **preposition** (in/for/about etc.) is followed by a verb, the verb ends in **-ing**. **to** can also be a preposition and we must use **-ing**
+  Are you interested in working for us?
+  Instead of eating home, we went to a cafe
+  I am not good at studying
+  Before going out, I phoned Sarah = Before I went out...
+  I ran 10 km without stopping
+  Are you looking forward **to** going on holiday?
+  I'm fed up with people telling me what to do
+- verb + **preposition** + object. **approve, stop** have some special cases
+  I'm thinking about buying a house
+  They accused us of not telling the truth
+  I don't approve of people killing animals
+  You can't stop me from doing what I want
+
+#### Be/get used to something
+- **be used to** something = it is not new or strange. We use **-ing** after it.
+  She wasn't used to driving on the left. She had to get used to it. She got used to driving on the left after some practice. Now she is used to driving on the left. Also she will get used to driving on the right when she returns in the States.
+- I **used to do** something vs I **am used to doing**
+  We used to live in a village. We moved to London a few years ago and had to get used to living in the big city.
+
+### To..., for..., so that
+- **To...** tells us the purpose of something: why somebody does/has/needs something or why something exists. We use it to explain
+  This letter is to confirm the decisions we made
+  I phoned the restaurant to reserve a table
+  I need something to open this bottle with
+- **money/time/chance/opportunity/energy/courage (etc.)** to do something
+  Do you have much opportunity to practise your English?
+  I need a few days to think about your proposal.
+- **for..** and **to..**
+  We stopped for petrol = We stopped to get petrol
+  I had to run for the bus = I had to run to catch the bus
+  I use this brush for washing the dishes = to wash the dishes (General)
+  I went into the kitchen to wash the dishes (Not washing cause we explain why somebody does something)
+  What did you do that for?
+- We use **so that** (not **to**...) when the purpose is negative. With **can** and **could**. **that** can be omitted.
+  Eat something now so (that) you won't (or don't) get hungry later.
+  She's learning English so (that) she can study in Canada.
+
+### Adjective + to
+  It is difficult to understand him = He is difficult to understand.
+  This is a difficult question to answer. (adjective + noun + to)
+- Adjective + **of you to**
+  It was nice of you to take me to the airport.
+- **Sorry to... surprised to**
+  Was Julia surprised to see you?
+- **The first** / **the next** (etc.) + to ...
+  I was the only one to arrive on time.
+- **sure/certain...** to happen
+  He is sure to forget things
+  There is likely to be a lot of traffic
 
 ### Articles
 - Articles before countable
