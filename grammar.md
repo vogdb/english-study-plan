@@ -650,6 +650,49 @@ of people - past)
   He is sure to forget things
   There is likely to be a lot of traffic
 
+### Some well-established phrases for -ing or to
+- **afraid to do** for things we do intentionally; we can choose to do them or not. **afraid of something happening** = it is possible that something bad will happen (for example, an accident).
+  I was afraid to eat that food
+  I was afraid of getting sick by that food
+- **sorry to**: to say we regret something that happens, to apologise at the time we do something. **sorry for** or **sorry about** (doing something) to apologise for something you did before.
+  I've enjoyed my stay here. I'll be sorry to leave.
+  I'm sorry to phone you so late, but I need to ask you something.
+  I'm sorry for (or about) shouting at you yesterday.
+- I **want to** (do)/I'd **like to** (do) - I'm **thinking of** (do)ing/I **dream of** (do)ing
+  I **failed to** (do) - I **succeeded in** (do)ing
+  I **allowed them to** (do) - I **prevented/stopped them** from (do)ing
+
+### See somebody do/doing
+- I saw him do something = he did something (past simple) and I saw this.
+  I saw him fall off the wall.
+  Did you see the accident happen?
+- Passive form
+  He was seen to get in the car.
+- I saw him doing something = he was doing something (past continuous) and I saw this.
+  I saw him walking along the street.
+- Both can be ok
+  I've never seen her dance = I've never seen her dancing.
+- We use these structures with **see**, **hear** and other verbs of input information.
+  Did you notice anyone go out?
+  Can you smell something burning?
+
+### -ing clauses.
+(clause is a short sentence that consists of subject and predicate(сказуемое))
+- When two things happen at the same time, we can use an **-ing** clause.
+  Kate is in the kitchen making coffee = she is in the kitchen and she is making coffee
+  A man ran out of the house shouting = he ran out of the house and he was shouting
+- We use **-ing** when one action happens during another action. We use **-ing** for the longer action. We often use **while, when** in such sentences.
+  Joe hurt his knee playing football.
+  Joe hurt his knee while playing football.
+  Be careful when crossing the road.
+- When one action happens before another action, we use **having (done)** for the first action. You can also say **after -ing**. If the first action is short we can replace **having done** with **doing**
+  Having finished her work, she went home.
+  After finishing her work, she went home.
+  Taking a key out of his pocket, he opened the door.
+- You can use an **-ing** clause to explain something, or to say why somebody does something.
+  Being a vegetarian, I don't eat any meat
+  Having already seen the film twice, I didn't want to see it again.
+
 ### Articles
 - Articles before countable
 - NO articles before uncountable, plural
@@ -717,3 +760,7 @@ of people - past)
   the temperature of the water (not the water's temperature), the name of the book, the top of the hill, the back of the bar, the end of the month.
 - 's can be used for an organisation (a group of people), a place, a time word
   the company's decision, the world's population, next week's meeting, a three weeks' holiday.
+
+### Reflexive pronouns(местоимения). Myself...
+  Amy had a great holiday. She really enjoyed herself.
+  We had never met before so that we introduced ourselves to each other.
