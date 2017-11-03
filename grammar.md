@@ -760,7 +760,79 @@ of people - past)
   the temperature of the water (not the water's temperature), the name of the book, the top of the hill, the back of the bar, the end of the month.
 - 's can be used for an organisation (a group of people), a place, a time word
   the company's decision, the world's population, next week's meeting, a three weeks' holiday.
+- **On my own** and **by myself** both mean 'alone'.
+  Jack was sitting on his own(by himself) in a corner
+- A friend of mine / a friend of yours
+  Mike had an argument with a neighbour of his.
 
 ### Reflexive pronouns(местоимения). Myself...
   Amy had a great holiday. She really enjoyed herself.
   We had never met before so that we introduced ourselves to each other.
+
+### Some / any
+- In general we use **some** (also somebody/someone/something) in positive sentences and **any** (also anybody etc.) in negative sentences.
+  I want something to eat. ~ I don't want anything to eat.
+  it's a very easy exam. Hardly anybody fails. (=almost nobody fails)
+- In questions when we know that thing exists or we think it exists we use **some**. Otherwise **any**.
+  Would you like something to eat?
+  I can't find my bag. Has anybody seen it?
+- **Somebody/someone/anybody/anyone** are singular words. But we use they/them/their after these words.
+  Someone is here to see you.
+  Someone has forgotten their umbrella. (=his or her umbrella)
+  If anybody wants to leave early, they can.
+
+### Much, many, little, few, a lot, plenty
+- **much, little** with uncountable. **few, many** with plural
+  much luck, much time, little money, many people, few cars
+- **a lot of, lots of, plenty of** with both uncountable and plural nouns
+  a lot of luck, lots of time
+  a lot of friends, lots of people
+  plenty of money, plenty of ideas
+- **much** is unusual in positive sentences (especially in spoken English)
+  We didn't spend much money ~ We spent a lot of money.
+  Do you see David much? ~ I see David a Lot.
+- **many years, many weeks, many days** (not a lot of .. .)
+  We've lived here for many years.
+- **little** = not much, **few** = not many
+  He has little time for other things. (=not much time, less time than he would like)
+  It's very dry. We've had little rain.
+  She has few friends there. (=not many, not as many as she would like)
+- **a little** = some, a small amount
+  We have a Little time before the train leaves.(a little time = some time, enough time to have a coffee)
+  'Do you speak English?' 'A little.' (so we can talk a bit)
+- **a few** = some, a small number
+  I have a few friends and we meet quite often. (a few friends = not many but enough to have a good time)
+
+### Al/All of, most/most of, no/none of
+- **all some any most much/many little/few no** are used with noun without article and **of** when we talk about things in general. We cannot say 'all of cars', 'some of people' etc.
+  All cars have wheels.
+  Many accidents are caused by bad driving.
+  No cars (somewhere on a notice board)
+  Most tourists don't visit this part of the town.
+  Sarah travels a lot in Europe. She has been to most of European countries.
+  Not all birds can fly. For example, the penguins can't fly.
+- **all some any most much/many little/few no** can be used with **of** and article when we talk about particular things. **of** can be omitted after **all** or **half**
+  None of this money is mine.
+  Half (of) this money is mine.
+  It's a historic town. Many of the buildings are very old.
+  Most of the time I sleep.
+  Have you read any of these books?
+  All (of) the flowers in this garden are beautiful.
+- You can also use **some/most etc.** alone, without a noun.
+  Some cars have four doors and some have two.
+  A few of the shops were open, but most (of them) were closed.
+  Half this money is mine, and half (of it) is yours.
+
+### Both/both of, neither/neither of, either/either of
+- We use **both/neither/either** for two things. We don't use articles before them! We can use them without noun with enough context. They are as **any/none/all** for more than two.
+  Both restaurants are very good.
+  Neither restaurant is expensive.
+  We can go to either restaurant.
+  'Do you want tea or coffee?' 'Either. I don't mind.'
+- We use **both of / neither of / either of + the/these/my/Tom's ... etc**. So we say 'both of the restaurants', 'both of those restaurants' etc. but not both of restaurants.
+  Both of these restaurants are very good.
+  Neither of the restaurants we went to was (or were) expensive.
+- **neither... nor...**
+  Neither Chris nor Paul came to the party.
+- **either ... or ...**
+  I'm not sure where Maria's from. She's either Spanish or Italian.
