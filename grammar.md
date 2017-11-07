@@ -836,3 +836,49 @@ of people - past)
   Neither Chris nor Paul came to the party.
 - **either ... or ...**
   I'm not sure where Maria's from. She's either Spanish or Italian.
+
+### All, every, whole
+- We do not normally use **all** to mean **everybody/everyone**
+  Everybody had a great time at the party. (not All enjoyed)
+- But we say **all of us /all of you /all of them**
+  All of us had a great time at the party. (not Everybody of us)
+- You can say **all I can** / **all you need** etc., but we do not normally use **all** alone. No articles before **all**.
+  He thinks he knows everything. (not he knows all)
+- Exceptions to the above.
+  He knows **all about** computers.
+  All I've eaten today is a sandwich. (= **the only thing** I've eaten today)
+- **Every / everybody / everyone / everything** are used with a singular verb
+  Everybody has arrived.
+- But we use **they/them/their** after **everybody/everyone**
+  Everybody said they enjoyed themselves.
+- We do not normally use **whole** with uncountable nouns. We use the/my/her etc. before **whole**.
+  I've spent all the money you gave me. (not the whole money)
+  her whole life ~ all her life
+
+### Each, every
+- Sometimes we can use them interchangeably but! We use **each** when we think of things separately, one by one. We use **every** when we think of things as a group. The meaning is similar to **all**.
+  There were four books on the table. Each book was a different colour.
+  Kate loves reading. She has read every book in the library.
+  There are computers in each(every) classroom in the school.
+- You can use **each** alone (without a noun). You can't use **every** alone.
+  None of the rooms was the same. Each(= each room) was different.
+  I've read every one of these books
+- **Everyone** (one word) is only for people(= everybody). **Every one** (two words) is for things or people, and is similar to **each one**.
+  Everyone enjoyed the party.
+  Sarah is invited to lots of parties and she goes to every one.
+
+### relative clauses: who, that, which
+- We must use **who/that/each** when they are the subject of relative clause. **who/that** for people, **that/which** for things
+  The woman who lives next door is a doctor = the woman - she live next door - is a doctor.
+  What was the name of the horse which won the race?
+- **what** = 'the thing(s) that' for some cases.
+  What happened was my fault. (=the thing that happened)
+- We can omit **who/that/each** when they are the object of relative clause.
+  The woman who I wanted to see was away on holiday. (**who(= the woman)** is the object, **I** is the subject)
+  Have you found the keys you lost? (**that** is omitted but we can put it back and it's not a mistake)
+- Position of prepositions (**in/to/for etc.**) in relative clauses. They are moved to the end of the relative.
+  Are these the books you were looking **for**?
+  Who was the man you were with in the cafe?
+- You cannot use **what** in sentences like where **who/that/which** is omitted.
+  I gave her all the money (that) I had. (not all the money what I had)
+  Did you hear what they said? (= the things that they said)
