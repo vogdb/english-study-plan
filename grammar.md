@@ -867,18 +867,114 @@ of people - past)
   Everyone enjoyed the party.
   Sarah is invited to lots of parties and she goes to every one.
 
-### relative clauses: who, that, which
+### relative clauses
 - We must use **who/that/each** when they are the subject of relative clause. **who/that** for people, **that/which** for things
   The woman who lives next door is a doctor = the woman - she live next door - is a doctor.
   What was the name of the horse which won the race?
 - **what** = 'the thing(s) that' for some cases.
   What happened was my fault. (=the thing that happened)
+  Did you hear what they said? (= the things that they said)
 - We can omit **who/that/each** when they are the object of relative clause.
   The woman who I wanted to see was away on holiday. (**who(= the woman)** is the object, **I** is the subject)
   Have you found the keys you lost? (**that** is omitted but we can put it back and it's not a mistake)
 - Position of prepositions (**in/to/for etc.**) in relative clauses. They are moved to the end of the relative.
   Are these the books you were looking **for**?
   Who was the man you were with in the cafe?
-- You cannot use **what** in sentences like where **who/that/which** is omitted.
-  I gave her all the money (that) I had. (not all the money what I had)
-  Did you hear what they said? (= the things that they said)
+- We use **whose** in relative clauses instead of his/her/their. We use it mostly for people.
+  we helped some people - their car had broken down ~ we helped some people whose car had broken down.
+  I met a man whose sister knows you. (his sister knows you) ~ I met a man who knows you. (he knows you)
+- **Whom** is possible instead of **who** when it is the object of the verb in the relative clause. It is a formal word and we do not often use it in this way.
+  George is a person whom I admire very much
+- You can use **where** in a relative clause to talk about a place
+  The restaurant where we had lunch was near the airport.
+- **the day /the year /the time**
+  The last time (that) I saw Anna, she looked great.
+- **the reason**
+  The reason I'm phoning is to ask your advice.
+- Relative clause that requires commas. When the relative clauses do not tell you which person or thing the speaker means, we use commas. Those clause bring **extra** information. In them we use **who** for people and **which** for things. No **that**.
+  We stayed at the hotel you recommended. ~ We stayed at the Park Hotel, which a friend of ours recommended.
+  This morning I met somebody I hadn't seen for ages ~ This morning I met Chris, who I hadn't seen for ages.
+- In formal sentences we use preposition at the beginning of relative clause not at the end. In these cases we use **whom** instead of **who**. Also we can use plenty of different prepositions and nouns
+  Mr Lee, **to whom** I spoke at the meeting, is... ~ Mr Lee, **who** I spoke at the meeting **to**, is...
+  They asked me a lot of questions, most of which I couldn't answer.
+  The building was destroyed in a fire, the cause of which was never established.
+- **which** instead of **what**
+  Sarah couldn't meet us, which was a shame. (not what was a shame. **which** = the fact that she couldn't)
+
+### -ing -ed clauses
+- We use **-ing** to say what somebody(something) is(was) doing at a particular time.
+  Do you know the woman talking to Tom? (now)
+  I was woken up by a bell ringing. (a bell was ringing)
+  Is there anybody waiting?
+- Also **-ing** is used for general things that happen all the time.
+  The road connecting the two villages is very narrow. (the road connects the two villages)
+  I have a large room overlooking the garden.
+- **-ed** clauses are passive.
+  George showed me some pictures painted by his father. (they had been painted by his father)
+  Most of the goods made in this factory are exported.
+  There was a big red car parked outside the house.
+- Somebody is **bored** if something (or somebody else) is **boring**. Or, if something is **boring**, it makes you **bored**.
+
+### Adjectives order
+- First go **opinion** adjectives, second **fact** adjectives
+  My brother lives in a nice new house. (nice - opinion, new - fact)
+
+### Adverbs and adjectives
+- Many adverbs are made from an adjective + **-ly**. Some adjectives end in **-ly**: lovely, friendly, lively...
+- Adjectives tell about a noun. Adverbs tell about a verb.
+- Adjectives can be used after some verbs like: be, feel, look...
+  Please be quiet (adjective). Please behave quietly (adverb)
+- **good** is an adjective, **well** is an adverb. **well** can be an adjective with the meaning 'in good health'.
+  Those boots were good and fitted me well
+  'How are you today?' 'I'm very well, thanks.' (well exception)
+- **Fast/hard/Late** are adjectives and adverbs
+  Kate is a hard worker. Kate works hard.
+
+### So, such
+- We use **so** + adjective/adverb. We use **such** + (adjective) + noun
+  I've got so much to do ~ I've got such a lot to do.
+  I haven't seen you for so long ~ I haven't seen you for such a long time.
+
+### Enough, too
+- We say **enough/too ... for** somebody/something. **enough/too ... to do** something.
+  Does Joe have enough experience for the job?
+  the food was very hot. We couldn't eat it.
+  the food was so hot that we couldn't eat it.
+  the food was too hot to eat.
+  This chair isn't strong enough to stand on.
+
+### Quite/pretty/rather/fairly
+- **Quite/pretty/rather/fairly** = less than 'very' but more than 'a little'.
+- **quite and pretty** are similar in meaning. Pretty is an informal
+  She's quite/pretty famous.
+- **quite** goes before a/an
+  quite an old house ~ a pretty old house
+- **quite** also means 'completely'. **not quite** - not completely.
+  I am quite sure. I am not quite(completely) sure.
+  She was quite different from what I expected. (= completely different)
+- **rather** is similar to quite and pretty. We often use rather for negative ideas. When it is used for positive, it means 'unusually'.
+  Paul is rather shy. He doesn't talk very much.
+  These oranges are rather good.
+- **fairly** is weaker than quite/rather/pretty. For example, if something is fairly good, it is not very good and it could be better.
+  My room is fairly big, but I'd prefer a bigger one.
+
+### Comparison better/more
+- The comparative form is **-er** or **more**. **-er** for one syllable/two syllable that ends in **-y**. For others is **more**.
+  early - earlier, serious - more serious.
+- **any/no** + comparative
+  it's no bigger than ours ~ it isn't any bigger than ours.
+  This hotel is better than the other one, and it's *no more expensive*
+  We have a lot to discuss. We need to start the meeting no later than 9.00
+- Better and better / more and more
+  These days more and more people are learning English.
+- We use **the**...**the**... to say that one thing depends on another thing.
+  The younger you are, the easier it is to learn.
+  The sooner the better.
+  The higher your income, the more tax you have to pay.
+- **as ... as**
+  Jack isn't as old as he looks.
+  Petrol is twice as expensive as it was
+- **than me/than I am**
+  You don't know as much about cars as (me)/(I do)
+  You are better than me/than I am.
+  They've been very lucky. I wish we were as lucky as (them)/(they have been).
