@@ -978,3 +978,65 @@ of people - past)
   You don't know as much about cars as (me)/(I do)
   You are better than me/than I am.
   They've been very lucky. I wish we were as lucky as (them)/(they have been).
+
+### Superlative
+- The superlative form is **-est** for short or **most** for long. After superlatives we normally use **in** with places, organisations and groups of people. For a period of time we normally use **of**.
+  What's the longest river in the world? (not of the world)
+  We had a nice room. It was one of the best in the hotel. (not of the hotel)
+  Who is the youngest student in the class? (not of the class)
+  Yesterday was the hottest day of the year.
+- We often use the present perfect after a superlative
+  What's the most important decision you've ever had to make?
+
+### Sentence order
+- verb + object + place + time
+  I met |my friend|(object) |on the way home|(place) |last night|(time)
+- adverbs can be injected in the middle of the sentence. If the **verb** is a **one-word** then usually the adverb goes before it. For a **two-word** verb the adverb goes after the first. Of course some exceptions are possible.
+  Helen always drives to work.
+  The concert will probably be cancelled
+  I always have to phone him
+  we were also hungry
+- Note that probably goes before a negative (isn't/won't etc.)
+  I probably won't see you = I will probably not see you. (not I won't probably)
+
+### still, yet, no longer, any more(longer)
+- **no longer** and **any more(longer)**. *no more* is not possible.
+  He no longer goes fishing ~ He does not go fishing any more
+- **still** = continues. **yet** = until now. Usually goes with present perfect.
+  He is still here ~ He hasn't gone yet
+  Is she still looking for a place to live? ~ Has she found a place to live yet?
+- **already** goes in the middle of the sentence
+  Shall I tell Joe what happened or does he already know?
+  We have already met.
+- **still** has a stronger feeling than **yet**
+  I sent him an invitation last week. He hasn't replied yet. (but I expect he will reply soon)
+  I sent him an invitation weeks ago and he still hasn't replied. (he should have replied
+before now)
+
+### even
+- **even** surprisingly unusual
+  She has even met the president.
+  Nobody enjoyed it, not even Amy.
+  I don't even know your name
+- **even** + **though/if/when** + subject + verb
+  His Spanish isn't very good, even after three years in Spain.
+  His Spanish isn't very good, even though he lived in Spain for three years. (not even he lived)
+
+### although / though / despite / in spite of
+- After **although** we use a subject + verb. After **in spite of** or **despite**, we use a noun, a pronoun (this/that/what etc.) or -ing.
+  We didn't go out because it was raining heavily.
+  We went out although it was raining heavily.
+  We went out (in spite of)/(depsite) the rain.
+- **though** is the same as **although**. It's used mostly in the spoken where we often use it at the end of a sentence.
+  We went out though it was raining heavily.
+  The house isn't so nice. I like the garden though.
+
+### in case
+- **in case** is not the same as **if**. We use **in case** to say why somebody does (or doesn't do) something. You do something now in case something happens later.
+  I'll buy some more food in case Tom comes. (I'm going to buy food now because there is a possibility that Tom will come)
+- Do **not** use **will** after **in case**. Use a present tense for the future.
+  I'll leave my phone switched on in case Jane calls. (not in case Jane will call).
+  I left my phone switched on in case Jane called.
+  Can you check the list in case we forgot to buy something.
+- **In case of** ... = if there is ...
+  In case of emergency, call this number.
