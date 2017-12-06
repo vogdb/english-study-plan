@@ -1040,3 +1040,46 @@ before now)
   Can you check the list in case we forgot to buy something.
 - **In case of** ... = if there is ...
   In case of emergency, call this number.
+
+### unless, as long as, providing
+- **unless** = except if.
+  you won't achieve anything unless you work harder
+  Unless they are with an adult, children are not allowed to use the swimming pool.
+- **As long as / provided / providing** = 'if' or 'on condition that'
+  I'm playing tennis tomorrow providing it doesn't rain.
+- When you are talking about the future, do not use **will** after **unless/as long as/provided/providing**. Use a present tense.
+
+### as
+- **as** = (at the same time as) / because
+  Just as I sat down, the door bell rang.
+  As the day went on, the weather got worse.
+  I couldn't contact David as he was on holiday.
+
+### like / as
+- **like** = 'similar to'/'the same as'. You cannot use **as** in this way. **As** = in the same way as, or in the same condition as. We use **as** before *subject* + *verb*.
+  What a beautiful house! Ifs like a palace.
+  I didn't move anything. I left everything as it was.
+  You're late as usual.
+
+### like / as if(though)
+- **As if** and **as though** are more formal than **like**. After **as if** (or **as though**), we sometimes use the past when we are talking about the present. We use the past in the same way in other sentences with **if** and **wish**
+  He ate as if he had not eaten for a week
+  You didn't look like you were enjoying it
+  I'm 20 years old, so please don't talk to me as if I was a child
+
+### during / while
+- We use **during** + noun. We use **while** + subject + verb.
+  I fell asleep during the movie.
+  I fell asleep while I was watching TV
+- When you are talking about the future, use the present (not will) after **while**
+  What are you going to do while you're waiting?(not while you'll be waiting)
+  I'm going to Singapore next week. I hope to see some friends of mine while I'm there.
+
+### by/until, by the time
+- **by** = not later than. We use **until** (or **till**) to say how long a situation continues.
+  I have to decide about the proposition by Friday
+  I have to wait until Friday
+  Joe will be away until Monday ~ Joe will be back by Monday.
+- **by the time** something happens. Don't use **will**.
+  It's too late to go to the bank now. By the time we get there, it will be closed.
+  By the time we got to the cinema, the film had already started.
