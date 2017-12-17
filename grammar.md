@@ -1083,3 +1083,85 @@ before now)
 - **by the time** something happens. Don't use **will**.
   It's too late to go to the bank now. By the time we get there, it will be closed.
   By the time we got to the cinema, the film had already started.
+
+### Preposition of time: at/on/in
+- **at** for the time of day, **on** for days and dates, **in** for longer periods. Of course there are some exceptions like: in the morning/afternoon..., at the weekend, ...
+  We travelled overnight and arrived at 5 o'clock in the morning
+  I might not be at home on Tuesday morning, but I'll be there in the afternoon.
+  Yuri Gagarin was the first to go into space on 12 April 1961
+- Some times do not require preposition. They use some other word instead of preposition.
+  I'll see you next Friday.
+  I was here last June.
+
+### On/In time, At/In the end
+- **on time** it happens at the time that was planned. **in time** (for something I to do something) = soon enough. **At the end** (of something) = at the time when something ends. **In the end** = finally.
+  I like to get up in time to have a big breakfast before going to work.
+
+### in/at/on position
+- Just a lots of examples to memorise. We use **at** for places when we want to say about the place without any concrete our position inside it, i.e place as a point. When we want to emphasise that the place is something with boundaries and we inside them, we use **in**. I can't remember that we use **on** for places. Usually **in** or **at**.
+  We had dinner at the hotel.
+  All the rooms in the hotel have air conditioning.
+  My sister is at school
+  On the whole I'm doing fine.
+
+### to/into/in/at
+- for movement to a place/event (etc.) we use **to**. **arrive** is not movement so we use **in/at** with it.
+  They have been to France twice ~ They live in France.
+  They arrived in London ~ they got to London
+- **into** for entering. The opposite of into is **out of**. We usually say 'get on/off a bus / a train / a plane'.
+  She got into(in) the car and drove away.
+
+### by
+- When we describe how we do something we use **by** + noun without **the** or **a**.
+  Can I pay by credit card?
+  Did you come here by car or on foot?
+- For example in passive we use articles
+  Have you ever been bitten by a dog?
+  I missed her by five minutes
+- **by** also means 'next to / beside'
+  Come and sit by me. (=next to me)
+- we don't use **by** for things that we use
+  the door must have been opened with a key. (not by a key)
+
+### Noun + preposition
+- just a bunch of have to know things
+  There's no **need for** it.
+  Nobody knew the **reason for** the delay.
+  I had to pay for the **damage to** the other car.
+  I hope we find a **solution to** the problem
+  His **attitude to** his job is very negative.
+  there is an **advantage in** (or **to**) doing something
+  increase/decrease/rise/fall **in**
+
+### Adjective + preposition
+- just a bunch of have to know things
+  You are **angry with** me
+  I am **sorry about**
+  I was **amazed by**
+  It was **careless of** you
+  Why are you so **rude to**
+  I'm **tired of** doing the same
+  They were furious with us for making so much noise.
+  I'm **short of** money
+  Nobody was **keen on** that idea
+  **throw** something **to** somebody (for somebody to catch)
+  **throw** something **at** somebody/something (in order to hit them)
+  **shout at** somebody (when you are angry)
+  **shout to** somebody (so that they can hear you)
+  I've **applied for** a job
+  I've **applied to** a college/professor
+  We **discussed** the topic
+  We had a **discussion about** the topic
+  I'm **leaving** my house **for** the airport
+  He gave up his job to **care for** his elderly father.
+  I don't **care about** the cost.
+  I don't **care how much** it costs.
+- When you **think about** something, you consider it, you concentrate your mind on it. When you **think of** something, the idea comes to your mind. Quite often we can use both.
+  I can't think of anything else to say.
+  I often think of (about) you
+  I will have to think of an excuse
+  His parents don't **approve of** what he does, but they can't stop him.
+  Alex **suffers from** back pain
+  I **complimented her** on her brilliant English
+  I **prefer** on thing **to** another
+  **Translate into** many languages
