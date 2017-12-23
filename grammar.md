@@ -1165,3 +1165,29 @@ before now)
   I **complimented her** on her brilliant English
   I **prefer** on thing **to** another
   **Translate into** many languages
+
+### Phrasal verbs
+- It is a verb with one of the words: in, on, down, etc.
+  I **turned on** the light = I **turned** the light **on**.
+  I **turned** it **on**. (not I **turned on** it)
+  I'm **moving in** next week.
+  I'm **moving into** my new flat on Friday
+  be **taken in** (to be deceived)
+  **put out** a fire (stop its burning)
+  **find out** more about smth.
+  **put on** a CD
+  You **put on** some weight
+  **put off** = delay
+  **call off** = cancel
+- **verb** + on = continue doing something
+  The party went on until 4 o'clock
+- **get on** = progress
+  How are you getting on in your new job?
+  get on with somebody = have a good relationship
+  He doesn't get on with his boss.
+- **up**
+  air is made up mainly of nitrogen and oxygen
+  **do up** a coat, shoelaces = fasten a coat
+- **back**
+  Look back (on something) = think about what happened in the past
+  Live now. Don't look back all the time.
