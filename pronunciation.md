@@ -14,8 +14,16 @@ Other vowels.
   Pattern: none.
   Examples: u - put, oo - soon, aw - dog, oi - join, ow - down.
 
-Long A
+Long A /eɪ/
 The rain in Spain falls mainly on the plain
+<img src="/images/eɪ.png" alt="eɪ"/>
 
-Short A
+Short A /æ/
 The fat cat sat on the man's black hat
+<img src="/images/æ.png" alt="æ"/>
+
+Long I /iː/
+<img src="/images/iː.png" alt="iː"/>
+
+Short I /ɪ/
+<img src="/images/ɪ.png" alt="ɪ"/>
