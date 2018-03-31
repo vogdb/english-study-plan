@@ -19,24 +19,24 @@ Other vowels.
 
 - **Long A /eɪ/**
 
-  The rain in Spain falls mainly on the plain
+  [The rain in Spain falls mainly on the plain](http://thesmallguidesite.com/tonguetwister/tonguetwister_ei.html)
 
   <img src="/images/eɪ.png" alt="eɪ" height=200/>
 
 - **Short A /æ/**
 
-  The fat cat sat on the man's black hat
+  [The fat cat sat on the man's black hat](http://thesmallguidesite.com/tonguetwister/tonguetwister_ae.html)
 
   <img src="/images/æ.png" alt="æ" height=200/>
 
 - **Long I /iː/**
 
-  Pieces of meat get stuck in his teeth when he eats veal steamed with sesame seeds
+  [Pieces of meat get stuck in his teeth when he eats veal steamed with sesame seeds](http://thesmallguidesite.com/tonguetwister/tonguetwister_longi.html)
 
   <img src="/images/iː.png" alt="iː" height=200/>
 
 - **Short I /ɪ/**
 
-  His sis kicks pillows when she's pissed, spins at the gym to stay slim, and cringes when she wins.
+  [His sis kicks pillows when she's pissed, spins at the gym to stay slim, and cringes when she wins.](http://thesmallguidesite.com/tonguetwister/tonguetwister_I.html)
 
   <img src="/images/ɪ.png" alt="ɪ" height=200/>
