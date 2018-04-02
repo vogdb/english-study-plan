@@ -29,6 +29,12 @@ Other vowels.
 
   <img src="/images/æ.png" alt="æ" height=200/>
 
+- **Short E /e/**
+
+  [Ken said Ted meant to send the rent but left the check on a bench when he stopped to mend the fence.](http://thesmallguidesite.com/tonguetwister/tonguetwister_e.html)
+
+  <img src="/images/e.png" alt="e" height=200/>
+
 - **Long I /iː/**
 
   [Pieces of meat get stuck in his teeth when he eats veal steamed with sesame seeds](http://thesmallguidesite.com/tonguetwister/tonguetwister_longi.html)
