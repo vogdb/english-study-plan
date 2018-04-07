@@ -46,3 +46,15 @@ Other vowels.
   [His sis kicks pillows when she's pissed, spins at the gym to stay slim, and cringes when she wins.](http://thesmallguidesite.com/tonguetwister/tonguetwister_I.html)
 
   <img src="/images/ɪ.png" alt="ɪ" height=200/>
+
+  - **Long /ɜː/**
+
+    [The girl was urged to meet the nerd.](https://youtu.be/uSz_U5ThzLc?t=200)
+
+    <img src="/images/ɜː.png" alt="ɪ" height=200/>
+
+  - **Long /ɑː/**
+
+    [Barbara parked her car near the castle](https://youtu.be/7ARFrKEYtkA?t=206)
+
+    <img src="/images/ɑː.png" alt="ɪ" height=200/>
